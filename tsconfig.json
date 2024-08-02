@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+      "baseUrl": ".", // This must be specified if "paths" is.
+      "paths": { // This mapping is relative to "baseUrl".
+          "@pages/*": [
+              "src/pom/*"
+          ],
+          "@repo/*": [
+              "src/locators/*"
+          ],
+          "@testdata/*": [
+              "testdata/*"
+          ],
+          "@fixtures/*": [
+              "src/fixtures/*"
+          ]
+      },
+      "target": "ES2022",
+      "moduleResolution":"node",
+      "resolveJsonModule": true,
+    //   "sourceMap": true
+  }
+}

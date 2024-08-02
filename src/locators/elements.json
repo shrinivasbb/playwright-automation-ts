@@ -1,0 +1,30 @@
+{
+  "landing": {
+    "btnMenu": "#menu-toggle",
+    "mnuSidenavOpts": "#sidebar-wrapper li"
+  },
+  "loginpage": {
+    "txtUsername": "#txt-username",
+    "txtPassword": "#txt-password",
+    "btnLogin":"#btn-login"
+  },
+  "appointmentpage": {
+    "headAppointment":"#appointment h2",
+    "ddlFacility":"#combo_facility",
+    "chkReadmission":"#chk_hospotal_readmission",
+    "rdbProgram":"label.radio-inline",
+    "btnCal":".glyphicon-calendar",
+    "btnNext":".next",
+    "tblDate":"td.day",
+    "txtComment":"#txt_comment",
+    "btnBookAppointment":"#btn-book-appointment"
+  },
+  "confirmationpage":{
+    "headConfirmation":"#summary h2",
+    "lblFacility":"#facility",
+    "lblReadmission":"#hospital_readmission",
+    "lblProgram":"#program",
+    "lblDate":"#visit_date",
+    "lblComment":"#comment"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "data":{
+        "facility": "Seoul CURA Healthcare Center",
+        "readmission": false,
+        "healthcare":"Medicaid", 
+        "date":"20",
+        "comment":"Comment"
+    }
+}
