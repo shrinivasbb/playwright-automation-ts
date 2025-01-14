@@ -1,1 +1,1 @@
-[![Playwright Tests](https://github.com/shrinivasbb/playwright-Automation-ts/actions/workflows/playwright.yml/badge.svg)](https://github.com/shrinivasbb/playwright-Automation-ts/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/shrinivasbb/playwright-Automation-ts/actions/workflows/playwright.yml/badge.svg)](https://github.com/shrinivasbb/playwright-Automation-ts/actions/workflows/playwright.yml) 
